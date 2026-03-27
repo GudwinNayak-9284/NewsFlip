@@ -46,7 +46,7 @@ Layouts update instantly on device rotation using `useWindowDimensions` hook.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/NewsFlip.git
+   https://github.com/GudwinNayak-9284/NewsFlip.git
    cd NewsFlip
    ```
 

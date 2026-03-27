@@ -9,7 +9,11 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gudwin11.NewsFlip",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -50,6 +54,13 @@
       "eas": {
         "projectId": "a9ce791c-ca39-47b4-bff9-758fd3f728ef"
       }
+    },
+    "owner": "gudwin-coder",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a9ce791c-ca39-47b4-bff9-758fd3f728ef"
     }
   }
 }
