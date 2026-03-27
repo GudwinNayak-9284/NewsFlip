@@ -2,7 +2,7 @@
 
 A modern, cross-platform news reader app built with React Native and Expo. NewsFlip delivers a beautiful reading experience with infinite scroll, dark/light mode, offline caching, and responsive layouts for all devices.
 
-![NewsFlip Banner](./screenshots/banner.png)
+![NewsFlip Banner](./screenshots/splash_screen.png)
 
 ## ✨ Features
 
@@ -143,7 +143,6 @@ See the `/screenshots` folder for:
 - `android_search.png` - Search screen
 - `tablet_portrait.png` - Tablet layout (portrait)
 - `tablet_landscape.png` - Tablet layout (landscape)
-- `ios_portrait_home.png` - iOS home screen
 
 ## ✅ Features Checklist
 
