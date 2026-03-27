@@ -1,4 +1,4 @@
-const GUARDIAN_API_KEY = 'dc3a697d-e14b-4df6-8782-d72acfc4c04e';
+const GUARDIAN_API_KEY = '3f0e5bfc-51db-46b3-ac1f-7dc2b5e8d23a';
 const BASE_URL = 'https://content.guardianapis.com';
 
 export interface GuardianArticle {
